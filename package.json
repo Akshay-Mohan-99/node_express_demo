@@ -1,0 +1,14 @@
+{
+  "name": "node_express_demo",
+  "version": "1.0.0",
+  "description": "this is a demo application with rest api",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "espresscode",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.21.1"
+  }
+}
